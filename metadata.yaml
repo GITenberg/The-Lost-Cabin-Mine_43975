@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42510'
     url: http://www.gutenberg.org/2009/agents/42510
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43975#The-Lost-Cabin-Mine
 gutenberg_issued: '2013-10-18'
 gutenberg_type: Text
 identifiers:
